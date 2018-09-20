@@ -1,0 +1,74 @@
+h1 {
+	text-decoration: underline;
+	font-size: 60px;
+}
+
+img {
+	border-radius: 12px;
+}
+
+span {
+	color: red;
+}
+
+header {
+	border: 4px solid black;
+	background-color: #0AC2F5;
+	margin-top: 36px;
+	text-align: center;
+}
+
+header p {
+	font-family: serif;
+	font-size: 30px;
+}
+
+body {
+	font-family: Times New Roman;
+	font-size: 20px;
+	background-image: url("C:/Users/ezzy_/Desktop/Web Portfolio Assignment/images/full-bloom.png");
+	position
+}
+
+section {
+	border: 2px solid #0AC2F5;
+	margin: 32px;
+	padding: 16px;	
+}
+
+section h2 {
+	text-decoration: underline;
+}
+
+span #best {
+	text-decoration-color: red;
+}
+
+#feelfree {
+	background-color: red;
+	color: yellow;
+}
+
+#picture {
+	text-align: center;
+}
+
+#pictureinfo {
+	text-align: center;
+}
+
+#video {
+	text-align: center;
+}
+
+#goalsnobjectives {
+	text-decoration: underline;
+}
+
+#aboutme {
+	text-decoration: underline;
+}
+
+#ending {
+	background-color: gray;
+}

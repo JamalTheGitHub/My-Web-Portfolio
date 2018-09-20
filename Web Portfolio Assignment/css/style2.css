@@ -1,0 +1,103 @@
+/* Add colored borders and margin/padding */
+header , article , section , footer , nav , aside , .container {
+	/*border: 0.2em solid gray;*/
+	padding: 1em;
+	margin: 0.5em;
+	font-family: cursive;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(../images/bgi3.jpg)
+}
+header {
+	color: gray;
+	border-color: none;
+}
+article {
+	color: gray;
+	border-color: none;
+}
+section {
+	color: gray;
+	border-color: none;
+}
+footer{
+	color: gray;
+	border-color: none;
+}
+nav{
+	color: gray;
+	border-color: none;
+}
+aside{
+	color: gray;
+	border-color: none;
+}
+
+/* Layout Style */
+
+#welcomingmat {
+	text-align: center;
+}
+
+#profilepic {
+	width: 15em;
+	border-radius: 2em;
+	position: relative;
+	left: 40%;
+	right: 40%;  
+}
+
+#intro {
+	padding: 0em;
+}
+
+header nav{
+	float: right;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-left: 1.6em;
+}
+
+nav ul{
+	padding-left: 0em;
+}
+
+.container {
+	width: 75em;
+	margin: 0 auto;
+}
+
+article {
+	width: 50em;
+	padding: 0em;
+	float: left;
+}
+
+aside {
+	width: 20em;
+	float: right;
+}
+
+footer{
+	clear: both;
+}
+
+.imggallery {
+	width: 12em;
+}
+
+#gallery {
+	padding: 0em;
+	text-align: center;
+}
+
+#contact {
+	text-align: center;
+}
+
+.logo{
+	width: 4em;
+}

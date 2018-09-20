@@ -1,0 +1,51 @@
+header , article , section , footer , nav , aside , .container {
+	font-family: cursive;
+	font-size: 1em;
+	border: 0.2em solid purple;
+	margin: 0.2em;
+	padding: 0.1em;
+	box-sizing: border-box;
+}
+
+header nav {
+float: right;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-left: 1.6em;
+}
+
+body {
+	background-image: url(../images/full-bloom.png);
+}
+
+body header h2 {
+	text-decoration: underline;
+}
+
+#profilepic {
+	width: 10em;
+	border-radius: 2em;
+}
+
+.container {
+	width: 65em;
+}
+
+article {
+	border-color: navy;
+}
+
+section {
+	border-color: red;
+}
+
+footer {
+	width: 65em;
+
+}
+
+aside {
+	width: 65em;
+}
